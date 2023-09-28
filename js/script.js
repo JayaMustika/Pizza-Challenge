@@ -9,6 +9,7 @@ const pizzaPriceSmall = -1;
 const pizzaPriceMedium = 0;
 const pizzaPriceLarge = 2;
 
+
 /**
  * !! There is too much identic variable below, can be
  * !! collected into just one object.
